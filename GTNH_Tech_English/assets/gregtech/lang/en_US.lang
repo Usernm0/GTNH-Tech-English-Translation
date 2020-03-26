@@ -2514,3 +2514,35 @@ gt.detrav.metatool.01.16.name=UV Prospector's Scanner
 gt.detrav.metatool.01.17.name=UV Prospector's Scanner Electric (Empty)
 gt.detrav.metatool.01.18.name=UHV Prospector's Scanner
 gt.detrav.metatool.01.19.name=UHV Prospector's Scanner Electric (Empty)
+
+gt.blockmachines.fluidtank.tier.00.name=ULV Fluid Tank
+gt.blockmachines.fluidtank.tier.01.name=LV Fluid Tank
+gt.blockmachines.fluidtank.tier.02.name=MV Fluid Tank
+gt.blockmachines.fluidtank.tier.03.name=HV Fluid Tank
+
+gt.plusplus.metatool.01.7534.name=Electric Firestarter
+
+MU-metaitem.01.32071.name=ULV Overflow Valve Cover
+MU-metaitem.01.32072.name=LV Overflow Valve Cover
+MU-metaitem.01.32073.name=MV Overflow Valve Cover
+MU-metaitem.01.32074.name=HV Overflow Valve Cover
+MU-metaitem.01.32075.name=EV Overflow Valve Cover
+MU-metaitem.01.32076.name=IV Overflow Valve Cover
+
+MU-metatool.01.1001.name=MV Hand Pump
+
+MU-metaitem.01.32130.name=ULV Machine Plate Cover
+MU-metaitem.01.32131.name=LV Machine Plate Cover
+MU-metaitem.01.32132.name=MV Machine Plate Cover
+MU-metaitem.01.32133.name=HV Machine Plate Cover
+MU-metaitem.01.32134.name=EV Machine Plate Cover
+MU-metaitem.01.32135.name=IV Machine Plate Cover
+MU-metaitem.01.32136.name=LuV Machine Plate Cover
+MU-metaitem.01.32137.name=ZPM Machine Plate Cover
+MU-metaitem.01.32138.name=UV Machine Plate Cover
+MU-metaitem.01.32139.name=UHV Machine Plate Cover
+
+gt.metaitem.01.32741.name=Cover Redstone Transmitter (Out)
+gt.metaitem.01.32742.name=Cover Redstone Transmitter (In)
+gt.metaitem.01.32746.name=Cover Redstone Receiver (Out)
+gt.metaitem.01.32747.name=Cover Redstone Receiver (In)
