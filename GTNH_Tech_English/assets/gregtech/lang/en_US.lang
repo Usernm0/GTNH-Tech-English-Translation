@@ -2546,3 +2546,14 @@ gt.metaitem.01.32741.name=Cover Redstone Transmitter (Out)
 gt.metaitem.01.32742.name=Cover Redstone Transmitter (In)
 gt.metaitem.01.32746.name=Cover Redstone Receiver (Out)
 gt.metaitem.01.32747.name=Cover Redstone Receiver (In)
+
+MU-metaitem.01.32141.name=Part ULV Transmission Component
+MU-metaitem.01.32142.name=Part LV Transmission Component
+MU-metaitem.01.32143.name=Part MV Transmission Component
+MU-metaitem.01.32144.name=Part HV Transmission Component
+MU-metaitem.01.32145.name=Part EV Transmission Component
+MU-metaitem.01.32146.name=Part IV Transmission Component
+MU-metaitem.01.32147.name=Part LuV Transmission Component
+MU-metaitem.01.32148.name=Part ZPM Transmission Component
+MU-metaitem.01.32149.name=Part UV Transmission Component
+MU-metaitem.01.32150.name=Part UHV Transmission Component
