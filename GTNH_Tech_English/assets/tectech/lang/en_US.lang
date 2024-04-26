@@ -1,0 +1,12 @@
+gt.blockcasingsBA0.0.name=LV Superconductor Primary Tesla Windings
+gt.blockcasingsBA0.1.name=MV Superconductor Primary Tesla Windings
+gt.blockcasingsBA0.2.name=HV Superconductor Primary Tesla Windings
+gt.blockcasingsBA0.3.name=EV Superconductor Primary Tesla Windings
+gt.blockcasingsBA0.4.name=IV Superconductor Primary Tesla Windings
+gt.blockcasingsBA0.5.name=LuV Superconductor Primary Tesla Windings
+
+gt.blockmachines.machine.tt.tesla.01.name=LV Tesla Transceiver
+gt.blockmachines.machine.tt.tesla.02.name=MV Tesla Transceiver
+gt.blockmachines.machine.tt.tesla.03.name=HV Tesla Transceiver
+gt.blockmachines.machine.tt.tesla.04.name=EV Tesla Transceiver
+gt.blockmachines.machine.tt.tesla.05.name=IV Tesla Transceiver

@@ -1,0 +1,31 @@
+item.itemBufferCore1.name=ULV Energy Core
+item.itemBufferCore2.name=LV Energy Core
+item.itemBufferCore3.name=MV Energy Core
+item.itemBufferCore4.name=HV Energy Core
+item.itemBufferCore5.name=EV Energy Core
+item.itemBufferCore6.name=IV Energy Core
+item.itemBufferCore7.name=LuV Energy Core
+item.itemBufferCore8.name=ZPM Energy Core
+item.itemBufferCore9.name=UV Energy Core
+item.itemBufferCore10.name=UHV Energy Core
+
+item.itemControlCore1.name=ULV Control Core
+item.itemControlCore2.name=LV Control Core
+item.itemControlCore3.name=MV Control Core
+item.itemControlCore4.name=HV Control Core
+item.itemControlCore5.name=EV Control Core
+item.itemControlCore6.name=IV Control Core
+item.itemControlCore7.name=LuV Control Core
+item.itemControlCore8.name=ZPM Control Core
+item.itemControlCore9.name=UV Control Core
+item.itemControlCore10.name=UHV Control Core
+
+item.GTPP.BattPack.01.name=LV Charge Pack
+item.GTPP.BattPack.02.name=MV Charge Pack
+item.GTPP.BattPack.03.name=HV Charge Pack
+item.GTPP.BattPack.04.name=EV Charge Pack
+item.GTPP.BattPack.05.name=IV Charge Pack
+item.GTPP.BattPack.06.name=LuV Charge Pack
+item.GTPP.BattPack.07.name=ZPM Charge Pack
+item.GTPP.BattPack.08.name=UV Charge Pack
+item.GTPP.BattPack.09.name=UHV Charge Pack
