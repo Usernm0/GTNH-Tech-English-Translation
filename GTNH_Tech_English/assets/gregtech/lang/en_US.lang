@@ -1227,10 +1227,10 @@ gt.metaitem.01.32607.name=Part ZPM Motor Electric
 gt.metaitem.01.32608.name=Part UV Motor Electric
 gt.metaitem.01.32596.name=Part UHV Motor Electric
 gt.metaitem.01.32595.name=Part UEV Motor Electric
-
-
-MU-metaitem.01.32033.name=Part ULV Motor Electric
-MU-metaitem.01.32007.name=Part MAX Motor Electric
+gt.metaitem.01.32017.name=Part UIV Motor Electric
+gt.metaitem.01.32018.name=Part UMV Motor Electric
+gt.metaitem.01.32019.name=Part UXV Motor Electric
+gt.metaitem.01.32020.name=Part MAX Motor Electric
 
 gt.metaitem.01.32610.name=Part LV Pump Electric
 gt.metaitem.01.32611.name=Part MV Pump Electric
@@ -1242,9 +1242,10 @@ gt.metaitem.01.32616.name=Part ZPM Pump Electric
 gt.metaitem.01.32617.name=Part UV Pump Electric
 gt.metaitem.01.32618.name=Part UHV Pump Electric
 gt.metaitem.01.32619.name=Part UEV Pump Electric
-
-MU-metaitem.01.32032.name=Part ULV Pump Electric
-MU-metaitem.01.32003.name=Part MAX Pump Electric
+gt.metaitem.01.32025.name=Part UIV Pump Electric
+gt.metaitem.01.32026.name=Part UMV Pump Electric
+gt.metaitem.01.32027.name=Part UXV Pump Electric
+gt.metaitem.01.32028.name=Part MAX Pump Electric
 
 gt.metaitem.01.32630.name=Part LV Conveyor Module
 gt.metaitem.01.32631.name=Part MV Conveyor Module
@@ -1256,9 +1257,10 @@ gt.metaitem.01.32636.name=Part ZPM Conveyor Module
 gt.metaitem.01.32637.name=Part UV Conveyor Module
 gt.metaitem.01.32638.name=Part UHV Conveyor Module
 gt.metaitem.01.32639.name=Part UEV Conveyor Module
-
-MU-metaitem.01.32034.name=Part ULV Conveyor Module
-MU-metaitem.01.32011.name=Part MAX Conveyor Module
+gt.metaitem.01.32029.name=Part UIV Conveyor Electric
+gt.metaitem.01.32030.name=Part UMV Conveyor Electric
+gt.metaitem.01.32031.name=Part UXV Conveyor Electric
+gt.metaitem.01.32032.name=Part MAX Conveyor Electric
 
 gt.metaitem.01.32640.name=Part LV Piston Electric
 gt.metaitem.01.32641.name=Part MV Piston Electric
@@ -1270,9 +1272,10 @@ gt.metaitem.01.32646.name=Part ZPM Piston Electric
 gt.metaitem.01.32647.name=Part UV Piston Electric
 gt.metaitem.01.32648.name=Part UHV Piston Electric
 gt.metaitem.01.32649.name=Part UEV Piston Electric
-
-MU-metaitem.01.32035.name=Part ULV Piston Electric
-MU-metaitem.01.32015.name=Part MAX Piston Electric
+gt.metaitem.01.32021.name=Part UIV Piston Electric
+gt.metaitem.01.32022.name=Part UMV Piston Electric
+gt.metaitem.01.32023.name=Part UXV Piston Electric
+gt.metaitem.01.32024.name=Part MAX Piston Electric
 
 gt.metaitem.01.32650.name=Part LV Robot Arm
 gt.metaitem.01.32651.name=Part MV Robot Arm
@@ -1284,9 +1287,10 @@ gt.metaitem.01.32656.name=Part ZPM Robot Arm
 gt.metaitem.01.32657.name=Part UV Robot Arm
 gt.metaitem.01.32658.name=Part UHV Robot Arm
 gt.metaitem.01.32659.name=Part UEV Robot Arm
-
-MU-metaitem.01.32036.name=Part ULV Robot Arm
-MU-metaitem.01.32019.name=Part MAX Robot Arm
+gt.metaitem.01.32033.name=Part UIV Robot Arm
+gt.metaitem.01.32034.name=Part UMV Robot Arm
+gt.metaitem.01.32035.name=Part UXV Robot Arm
+gt.metaitem.01.32036.name=Part MAX Robot Arm
 
 gt.metaitem.01.32660.name=Part LV Fluid Regulator
 gt.metaitem.01.32661.name=Part MV Fluid Regulator
@@ -1296,6 +1300,10 @@ gt.metaitem.01.32664.name=Part IV Fluid Regulator
 gt.metaitem.01.32665.name=Part LuV Fluid Regulator
 gt.metaitem.01.32666.name=Part ZPM Fluid Regulator
 gt.metaitem.01.32667.name=Part UV Fluid Regulator
+gt.metaitem.01.32051.name=Part UIV Fluid Regulator
+gt.metaitem.01.32052.name=Part UMV Fluid Regulator
+gt.metaitem.01.32053.name=Part UXV Fluid Regulator
+gt.metaitem.01.32054.name=Part MAX Fluid Regulator
 
 gt.metaitem.01.32670.name=Part LV Field Generator
 gt.metaitem.01.32671.name=Part MV Field Generator
@@ -1307,9 +1315,10 @@ gt.metaitem.01.32676.name=Part ZPM Field Generator
 gt.metaitem.01.32677.name=Part UV Field Generator
 gt.metaitem.01.32678.name=Part UHV Field Generator
 gt.metaitem.01.32679.name=Part UEV Field Generator
-
-MU-metaitem.01.32037.name=Part ULV Field Generator
-MU-metaitem.01.32023.name=Part MAX Field Generator
+gt.metaitem.01.32045.name=Part UIV Field Generator
+gt.metaitem.01.32046.name=Part UMV Field Generator
+gt.metaitem.01.32047.name=Part UXV Field Generator
+gt.metaitem.01.32048.name=Part MAX Field Generator
 
 gt.metaitem.01.32680.name=Part LV Emitter
 gt.metaitem.01.32681.name=Part MV Emitter
@@ -1321,9 +1330,10 @@ gt.metaitem.01.32686.name=Part ZPM Emitter
 gt.metaitem.01.32687.name=Part UV Emitter
 gt.metaitem.01.32688.name=Part UHV Emitter
 gt.metaitem.01.32689.name=Part UEV Emitter
-
-MU-metaitem.01.32038.name=Part ULV Emitter
-MU-metaitem.01.32027.name=Part MAX Emitter
+gt.metaitem.01.32037.name=Part UIV Emitter
+gt.metaitem.01.32038.name=Part UMV Emitter
+gt.metaitem.01.32039.name=Part UXV Emitter
+gt.metaitem.01.32040.name=Part MAX Emitter
 
 gt.metaitem.01.32690.name=Part LV Sensor
 gt.metaitem.01.32691.name=Part MV Sensor
@@ -1335,9 +1345,10 @@ gt.metaitem.01.32696.name=Part ZPM Sensor
 gt.metaitem.01.32697.name=Part UV Sensor
 gt.metaitem.01.32698.name=Part UHV Sensor
 gt.metaitem.01.32699.name=Part UEV Sensor
-
-MU-metaitem.01.32039.name=Part ULV Sensor
-MU-metaitem.01.32031.name=Part MAX Sensor
+gt.metaitem.01.32041.name=Part UIV Sensor
+gt.metaitem.01.32042.name=Part UMV Sensor
+gt.metaitem.01.32043.name=Part UXV Sensor
+gt.metaitem.01.32044.name=Part MAX Sensor
 
 gt.metaitem.01.32750.name=Part Solar Panel
 gt.metaitem.01.32751.name=Part ULV Solar Panel
