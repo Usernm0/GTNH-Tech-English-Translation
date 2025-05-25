@@ -3471,4 +3471,36 @@ gt.blockmachines.gt_pipe_wroughtiron.name=Fluid Pipe %material Normal
 gt.blockmachines.gt_pipe_wroughtiron_large.name=Fluid Pipe %material Large
 gt.blockmachines.gt_pipe_wroughtiron_huge.name=Fluid Pipe %material Huge
 gt.blockmachines.gt_pipe_wroughtiron_quadruple.name=Fluid Pipe %material Quadruple
-gt.blockmachines.gt_pipe_wroughtiron_nonuple.name=Fluid Pipe %material Nonuple
+gt.blockmachines.gt_pipe_wroughtiron_nonuple.name=Fluid Pipe %material Nonuple 
+
+# Water grade
+
+Material.grade1purifiedwater=T1 water filtered (Grade 1)
+Material.grade2purifiedwater=T2 water filtered (Grade 2)
+Material.grade3purifiedwater=T3 water filtered (Grade 3)
+Material.grade4purifiedwater=T4 water filtered (Grade 4)
+Material.grade5purifiedwater=T5 water filtered (Grade 5)
+Material.grade6purifiedwater=T6 water filtered (Grade 6)
+Material.grade7purifiedwater=T7 water filtered (Grade 7)
+Material.grade8purifiedwater=T8 water filtered (Grade 8)
+
+# Fix maintenence 
+
+Interaction_DESCRIPTION_Index_132=Use Wrench
+Interaction_DESCRIPTION_Index_133=Use Screwdriver
+Interaction_DESCRIPTION_Index_134=Use Soft Mallet
+Interaction_DESCRIPTION_Index_135=Use Hammer
+Interaction_DESCRIPTION_Index_136=Use Soldering alloy
+Interaction_DESCRIPTION_Index_137=Use Crowbar
+
+# Transmission Component
+
+MU-metaitem.01.32142.name=Part LV Transmission Component 
+MU-metaitem.01.32143.name=Part MV Transmission Component 
+MU-metaitem.01.32144.name=Part HV Transmission Component 
+MU-metaitem.01.32145.name=Part EV Transmission Component 
+MU-metaitem.01.32146.name=Part IV Transmission Component 
+MU-metaitem.01.32147.name=Part LuV Transmission Component 
+MU-metaitem.01.32148.name=Part ZPM Transmission Component 
+MU-metaitem.01.32149.name=Part UV Transmission Component 
+MU-metaitem.01.32150.name=Part UHV Transmission Component 
