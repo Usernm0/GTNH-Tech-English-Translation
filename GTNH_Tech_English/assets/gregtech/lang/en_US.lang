@@ -3473,26 +3473,6 @@ gt.blockmachines.gt_pipe_wroughtiron_huge.name=Fluid Pipe %material Huge
 gt.blockmachines.gt_pipe_wroughtiron_quadruple.name=Fluid Pipe %material Quadruple
 gt.blockmachines.gt_pipe_wroughtiron_nonuple.name=Fluid Pipe %material Nonuple 
 
-# Water grade
-
-Material.grade1purifiedwater=T1 water filtered (Grade 1)
-Material.grade2purifiedwater=T2 water filtered (Grade 2)
-Material.grade3purifiedwater=T3 water filtered (Grade 3)
-Material.grade4purifiedwater=T4 water filtered (Grade 4)
-Material.grade5purifiedwater=T5 water filtered (Grade 5)
-Material.grade6purifiedwater=T6 water filtered (Grade 6)
-Material.grade7purifiedwater=T7 water filtered (Grade 7)
-Material.grade8purifiedwater=T8 water filtered (Grade 8)
-
-# Fix maintenence 
-
-Interaction_DESCRIPTION_Index_132=Use Wrench
-Interaction_DESCRIPTION_Index_133=Use Screwdriver
-Interaction_DESCRIPTION_Index_134=Use Soft Mallet
-Interaction_DESCRIPTION_Index_135=Use Hammer
-Interaction_DESCRIPTION_Index_136=Use Soldering alloy
-Interaction_DESCRIPTION_Index_137=Use Crowbar
-
 # Transmission Component
 
 MU-metaitem.01.32142.name=Part LV Transmission Component 
@@ -3504,3 +3484,102 @@ MU-metaitem.01.32147.name=Part LuV Transmission Component
 MU-metaitem.01.32148.name=Part ZPM Transmission Component 
 MU-metaitem.01.32149.name=Part UV Transmission Component 
 MU-metaitem.01.32150.name=Part UHV Transmission Component 
+
+# Tool Casting Machine
+
+gt.blockmachines.ggfab.toolcast.tier.ev.name=EV Tool Casting Machine
+gt.blockmachines.ggfab.toolcast.tier.hv.name=HV Tool Casting Machine
+gt.blockmachines.ggfab.toolcast.tier.mv.name=MV Tool Casting Machine
+
+# Dual Input
+
+gt.blockmachines.namedualinputbuffer_iv.name=IV Dual Input Buffer 
+gt.blockmachines.namedualinputbuffer_luv.name=LuV Dual Input Buffer 
+gt.blockmachines.namedualinputbuffer_uv.name=UV Dual Input Buffer 
+gt.blockmachines.namedualinputbuffer_zpm.name=ZPM Dual Input Buffer 
+
+# Laser Source Hatch
+
+gt.blockmachines.ev_lplaser_dynamo_128.name=EV Laser Source Hatch 128A
+gt.blockmachines.ev_lplaser_dynamo_32.name=EV Laser Source Hatch 32A
+gt.blockmachines.ev_lplaser_dynamo_64.name=EV Laser Source Hatch 64A
+gt.blockmachines.ev_lplaser_dynamo_96.name=EV Laser Source Hatch 96A
+gt.blockmachines.iv_lplaser_dynamo_128.name=IV Laser Source Hatch 128A
+gt.blockmachines.iv_lplaser_dynamo_32.name=IV Laser Source Hatch 32A
+gt.blockmachines.iv_lplaser_dynamo_64.name=IV Laser Source Hatch 64A
+gt.blockmachines.iv_lplaser_dynamo_96.name=IV Laser Source Hatch 96A
+gt.blockmachines.luv_lplaser_dynamo_128.name=LuV Laser Source Hatch 128A
+gt.blockmachines.luv_lplaser_dynamo_32.name=LuV Laser Source Hatch 32A
+gt.blockmachines.luv_lplaser_dynamo_64.name=LuV Laser Source Hatch 64A
+gt.blockmachines.luv_lplaser_dynamo_96.name=LuV Laser Source Hatch 96A
+gt.blockmachines.zpm_lplaser_dynamo_128.name=ZPM Laser Source Hatch 128A
+gt.blockmachines.zpm_lplaser_dynamo_32.name=ZPM Laser Source Hatch 32A
+gt.blockmachines.zpm_lplaser_dynamo_64.name=ZPM Laser Source Hatch 64A
+gt.blockmachines.zpm_lplaser_dynamo_96.name=ZPM Laser Source Hatch 96A
+gt.blockmachines.hatch.dynamotunnel.tier.14.name=UXV Laser Source Hatch Legendary 
+gt.blockmachines.hatch.dynamotunnel1.tier.05.name=IV Laser Source Hatch 256A
+gt.blockmachines.hatch.dynamotunnel1.tier.06.name=LuV Laser Source Hatch 256A
+gt.blockmachines.hatch.dynamotunnel1.tier.07.name=ZPM Laser Source Hatch 256A
+gt.blockmachines.hatch.dynamotunnel1.tier.08.name=UV Laser Source Hatch 256A
+gt.blockmachines.hatch.dynamotunnel1.tier.09.name=UHV Laser Source Hatch 256A
+gt.blockmachines.hatch.dynamotunnel1.tier.10.name=UEV Laser Source Hatch 256A
+gt.blockmachines.hatch.dynamotunnel1.tier.11.name=UIV Laser Source Hatch 256A
+gt.blockmachines.hatch.dynamotunnel1.tier.12.name=UMV Laser Source Hatch 256A
+gt.blockmachines.hatch.dynamotunnel1.tier.13.name=UXV Laser Source Hatch 256A
+gt.blockmachines.hatch.dynamotunnel2.tier.05.name=IV Laser Source Hatch 1,024A
+gt.blockmachines.hatch.dynamotunnel2.tier.06.name=LuV Laser Source Hatch 1,024A
+gt.blockmachines.hatch.dynamotunnel2.tier.07.name=ZPM Laser Source Hatch 1,024A
+gt.blockmachines.hatch.dynamotunnel2.tier.08.name=UV Laser Source Hatch 1,024A
+gt.blockmachines.hatch.dynamotunnel2.tier.09.name=UHV Laser Source Hatch 1,024A
+gt.blockmachines.hatch.dynamotunnel2.tier.10.name=UEV Laser Source Hatch 1,024A
+gt.blockmachines.hatch.dynamotunnel2.tier.11.name=UIV Laser Source Hatch 1,024A
+gt.blockmachines.hatch.dynamotunnel2.tier.12.name=UMV Laser Source Hatch 1,024A
+gt.blockmachines.hatch.dynamotunnel2.tier.13.name=UXV Laser Source Hatch 1,024A
+gt.blockmachines.hatch.dynamotunnel3.tier.05.name=IV Laser Source Hatch  4,096A
+gt.blockmachines.hatch.dynamotunnel3.tier.06.name=LuV Laser Source Hatch 4,096A
+gt.blockmachines.hatch.dynamotunnel3.tier.07.name=ZPM Laser Source Hatch 4,096A
+gt.blockmachines.hatch.dynamotunnel3.tier.08.name=UV Laser Source Hatch 4,096A
+gt.blockmachines.hatch.dynamotunnel3.tier.09.name=UHV Laser Source Hatch 4,096A
+gt.blockmachines.hatch.dynamotunnel3.tier.10.name=UEV Laser Source Hatch 4,096A
+gt.blockmachines.hatch.dynamotunnel3.tier.11.name=UIV Laser Source Hatch 4,096A
+gt.blockmachines.hatch.dynamotunnel3.tier.12.name=UMV Laser Source Hatch 4,096A
+gt.blockmachines.hatch.dynamotunnel3.tier.13.name=UXV Laser Source Hatch 4,096A
+gt.blockmachines.hatch.dynamotunnel4.tier.05.name=IV Laser Source Hatch 16,384A
+gt.blockmachines.hatch.dynamotunnel4.tier.06.name=LuV Laser Source Hatch 16,384A
+gt.blockmachines.hatch.dynamotunnel4.tier.07.name=ZPM Laser Source Hatch 16,384A
+gt.blockmachines.hatch.dynamotunnel4.tier.08.name=UV Laser Source Hatch 16,384A
+gt.blockmachines.hatch.dynamotunnel4.tier.09.name=UHV Laser Source Hatch 16,384A
+gt.blockmachines.hatch.dynamotunnel4.tier.10.name=UEV Laser Source Hatch 16,384A
+gt.blockmachines.hatch.dynamotunnel4.tier.11.name=UIV Laser Source Hatch 16,384A
+gt.blockmachines.hatch.dynamotunnel4.tier.12.name=UMV Laser Source Hatch 16,384A
+gt.blockmachines.hatch.dynamotunnel4.tier.13.name=UXV Laser Source Hatch 16,384A
+gt.blockmachines.hatch.dynamotunnel5.tier.05.name=IV Laser Source Hatch  65,536A
+gt.blockmachines.hatch.dynamotunnel5.tier.06.name=LuV Laser Source Hatch 65,536A
+gt.blockmachines.hatch.dynamotunnel5.tier.07.name=ZPM Laser Source Hatch 65,536A
+gt.blockmachines.hatch.dynamotunnel5.tier.08.name=UV Laser Source Hatch 65,536A
+gt.blockmachines.hatch.dynamotunnel5.tier.09.name=UHV Laser Source Hatch 65,536A
+gt.blockmachines.hatch.dynamotunnel5.tier.10.name=UEV Laser Source Hatch 65,536A
+gt.blockmachines.hatch.dynamotunnel5.tier.11.name=UIV Laser Source Hatch 65,536A
+gt.blockmachines.hatch.dynamotunnel5.tier.12.name=UMV Laser Source Hatch 65,536A
+gt.blockmachines.hatch.dynamotunnel5.tier.13.name=UXV Laser Source Hatch 65,536A
+gt.blockmachines.hatch.dynamotunnel6.tier.05.name=IV Laser Source Hatch 262,144A
+gt.blockmachines.hatch.dynamotunnel6.tier.06.name=LuV Laser Source Hatch 262,144A
+gt.blockmachines.hatch.dynamotunnel6.tier.07.name=ZPM Laser Source Hatch 262,144A
+gt.blockmachines.hatch.dynamotunnel6.tier.08.name=UV Laser Source Hatch 262,144A
+gt.blockmachines.hatch.dynamotunnel6.tier.09.name=UHV Laser Source Hatch 262,144A
+gt.blockmachines.hatch.dynamotunnel6.tier.10.name=UEV Laser Source Hatch 262,144A
+gt.blockmachines.hatch.dynamotunnel6.tier.11.name=UIV Laser Source Hatch 262,144A
+gt.blockmachines.hatch.dynamotunnel6.tier.12.name=UMV Laser Source Hatch 262,144A
+gt.blockmachines.hatch.dynamotunnel6.tier.13.name=UXV Laser Source Hatch 262,144A
+gt.blockmachines.hatch.dynamotunnel7.tier.05.name=IV Laser Source Hatch 1,048,576A
+gt.blockmachines.hatch.dynamotunnel7.tier.06.name=LuV Laser Source Hatch 1,048,576A
+gt.blockmachines.hatch.dynamotunnel7.tier.07.name=ZPM Laser Source Hatch 1,048,576A
+gt.blockmachines.hatch.dynamotunnel7.tier.08.name=UV Laser Source Hatch 1,048,576A
+gt.blockmachines.hatch.dynamotunnel7.tier.09.name=UHV Laser Source Hatch 1,048,576A
+gt.blockmachines.hatch.dynamotunnel7.tier.10.name=UEV Laser Source Hatch 1,048,576A
+gt.blockmachines.hatch.dynamotunnel7.tier.11.name=UIV Laser Source Hatch 1,048,576A
+gt.blockmachines.hatch.dynamotunnel7.tier.12.name=UMV Laser Source Hatch 1,048,576A
+gt.blockmachines.hatch.dynamotunnel7.tier.13.name=UXV Laser Source Hatch 1,048,576A
+gt.blockmachines.hatch.dynamotunnel8.tier.12.name=UMV Laser Source Hatch 4,194,304A
+gt.blockmachines.hatch.dynamotunnel8.tier.13.name=UXV Laser Source Hatch 4,194,304A
+gt.blockmachines.hatch.dynamotunnel9.tier.13.name=UXV Laser Source Hatch 16,777,216A
