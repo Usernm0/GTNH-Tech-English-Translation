@@ -1,4 +1,5 @@
-# Created by Usernm.
+# Originally created by Usernm. Full list of contributors see on github:
+# https://github.com/Usernm0/GTNH-Tech-English-Translation/
 
 # Steam Hull
 
@@ -113,7 +114,7 @@ gt.blockmachines.basicgenerator.plasmagenerator.tier.07.name=Generator LuV Plasm
 gt.blockmachines.basicgenerator.plasmagenerator.tier.08.name=Generator ZPM Plasma
 gt.blockmachines.basicgenerator.plasmagenerator.tier.09.name=Generator UV Plasma
 
-# Generator Radioisotope Thermoelectri
+# Generator Radioisotope Thermoelectric
 
 gt.blockmachines.basicgenerator.rtg.tier.01.name=Generator Radioisotope Thermoelectric (RTG)
 
