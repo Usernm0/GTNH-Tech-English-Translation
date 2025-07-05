@@ -106,6 +106,26 @@ gt.blockmachines.basicgenerator.naquadah.tier.06.name=Generator LuV Naquadah Rea
 gt.blockmachines.basicgenerator.naquadah.tier.07.name=Generator ZPM Naquadah Reactor
 gt.blockmachines.basicgenerator.naquadah.tier.08.name=Generator UV Naquadah Reactor
 
+# Fusion reactor
+
+gt.blockmachines.fusioncomputer.tier.06.name=Fusion Reactor MK-1
+gt.blockmachines.fusioncomputer.tier.07.name=Fusion Reactor MK-2
+gt.blockmachines.fusioncomputer.tier.08.name=Fusion Reactor MK-3
+gt.blockmachines.fusioncomputer.tier.09.name=Fusion Reactor MK-4
+gt.blockmachines.fusioncomputer.tier.10.name=Fusion Reactor MK-5
+
+gt.blockmachines.largefusioncomputer1.name=Compact Fusion Reactor MK-1
+gt.blockmachines.largefusioncomputer2.name=Compact Fusion Reactor MK-2
+gt.blockmachines.largefusioncomputer3.name=Compact Fusion Reactor MK-3
+gt.blockmachines.largefusioncomputer4.name=Compact Fusion Reactor MK-4
+gt.blockmachines.largefusioncomputer5.name=Compact Fusion Reactor MK-5
+
+# MK-1 == LUV casings
+gt.blockcasings4.6.name=Fusion Reactor Casing MK-2
+gt.blockcasings4.8.name=Fusion Reactor Casing MK-3
+gtplusplus.blockcasings.3.12.name=Fusion Reactor Casing MK-4
+gtplusplus.blockcasings.6.0.name=Fusion Reactor Casing MK-5
+
 # Plasma
 
 gt.blockmachines.basicgenerator.plasmagenerator.tier.05.name=Generator EV Plasma
