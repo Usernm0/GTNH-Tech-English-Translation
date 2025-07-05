@@ -1927,6 +1927,15 @@ gt.metaitem.01.32609.name=UMV Battery Really Ultimate Battery
 # UXV Battery
 
 gt.metaitem.01.32590.name=UXV Battery Infinity
+gt.metaitem.01.32594.name=UXV Battery Extremely Ultimate Battery
+
+# MAX Battery
+
+gt.metaitem.01.32145.name=MAX Battery Insanely Ultimate Battery
+
+# ERROR Battery
+
+gt.metaitem.01.32146.name=ERROR Battery Mega Ultimate Battery
 
 # Wire
 
